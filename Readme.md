@@ -1,4 +1,4 @@
-# Cypress 13 + Cucumber
+# Cypress 12 + Cucumber
 
 ## Sobre o Projeto
 
