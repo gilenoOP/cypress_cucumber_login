@@ -5,7 +5,6 @@ import {
 } from '@badeball/cypress-cucumber-preprocessor';
 
 Given("que acesso a página de login", function () {
-
   cy.visit('/')
 });
 
